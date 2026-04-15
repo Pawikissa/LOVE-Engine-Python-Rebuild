@@ -7,7 +7,7 @@ title: MyLOVEGame
 
 window 1200 620
 
-Window 1200 is width ans 620 height
+Window 1200 is width and 620 height
 
 and end of file needs command "end" to write
 it allows comment with "#" tag
